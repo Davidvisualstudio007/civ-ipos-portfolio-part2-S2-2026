@@ -6,6 +6,7 @@
 | Library | Issue | Purpose |
 |---|---|---|
 | `python-dateutil` | #1 | Reads dates like `01-12-2030`, `1/12/2030`, `1 Dec 2030` and stores them as `DD-MM-YYYY` |
+| `rich` | #2 | Shows tasks in a coloured table, with a status filter and a Mark Task Complete option |
 
 ### How to run and test
 
