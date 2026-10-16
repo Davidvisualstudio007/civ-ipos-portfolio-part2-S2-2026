@@ -16,7 +16,7 @@ class Task:
         Args:
             title (str): The title of the task.
             description (str): A brief description of the task.
-            due_date (str): The due date of the task in 'YYYY-MM-DD' format.
+            due_date (str): The due date of the task in 'DD-MM-YYYY' format.
             status (str, optional): The status of the task. Defaults to 'pending'.
         """
         self.title = title
